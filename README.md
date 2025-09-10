@@ -8,7 +8,6 @@
 
 This project is intended for researchers, engineers, data scientists, and technically inclined readers who want to understand forecasting platforms at a conceptual level.
 
----
 
 ## Project Overview
 
@@ -18,17 +17,14 @@ When models are ready to be exercised in practice, the **heisenberg‑runtime** 
 
 Together these modules embody a philosophy that balances theoretical soundness with practical utility. The emphasis is on **low‑latency runtime performance**, **reproducible evaluation methods**, and **transparent logging and traceability**. The development practices are reinforced by strict typing, continuous integration, and testing discipline. Finally, the entire trajectory of the platform is conceived with an eye toward future deployment and external integration, so that what begins as an experimental system can mature into a reliable operational tool.
 
----
 
 ## Documentation
 
 See the [docs/](docs/) folder for more details:
 
 * [Project Goals](docs/goals.md)
-* [Architecture Overview](docs/architecture.md)
-* [Quickstart Guide](docs/quickstart.md)
+* [Architecture Overview](Architecture.md)
 
----
 
 ## Website
 
@@ -42,7 +38,7 @@ This section outlines project maturity and direction:
 * **In Progress** — …
 * **Next** — …
 
-(Details to be filled in later.)
+(Details comming soon.)
 
 ## Contact / Links
 
